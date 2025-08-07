@@ -1,0 +1,9 @@
+{
+  "TOKEN": "",
+  "GUILD_ID": "",
+  "LOG_CHANNEL_ID": "",
+  "ADMIN_CHANNEL_ID": "",
+  "NOTIFY_CHANNEL_ID": "",
+  "ADMIN_ID": [],
+  "PREFIX": "!"
+}
